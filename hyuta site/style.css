@@ -1,0 +1,80 @@
+body{
+     background-color: rgb(26, 25, 25);
+
+}
+
+
+img{
+    display: grid;
+    margin-left: 850px;
+    max-width: 200px;
+    margin-top: -700px;
+}
+
+
+
+
+
+.box{
+    display: grid;
+    margin-left: 700px;
+    margin-top: 50px;
+    width: 500px;
+    height: 700px;
+    border: 2px solid rgb(225, 0, 184);
+    border-radius: 4%;
+
+    }
+
+    h1{
+        color: rgb(255, 255, 255);
+        font-family: 'Source Sans Pro';
+        font-style: italic;
+        font-size: 20px;
+        margin-top: 660px;
+        margin-left: 930px;
+        position:fixed
+       
+    }
+
+
+
+    iframe{
+    
+        position: fixed;
+        margin-left: 790px;
+        margin-top: 550px;
+
+    }
+    
+h2{
+    position: fixed;
+    margin-left: 820px;
+    margin-top: 220px;
+    color: aliceblue;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+h3{
+    position: fixed;
+    margin-left: 940px;
+    margin-top: 180px;
+    color: rgb(105, 107, 109);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+    
+
+spotify{
+position: fixed;
+
+
+}
+
+
+
